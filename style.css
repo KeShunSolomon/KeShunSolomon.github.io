@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  text-align: center;
+  /*border: 2px solid #ff0000;*/
+  font-family: Lucida Console, Courier New, monospace
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  margin: auto;
+}
+
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOEmZcCJEl_qXql_Y8sjb9l_81XwfEPPo9mQ&usqp=CAU");
+}
+
+h2{
+  font-family: Lucida Console, Courier New, monospace;
+  font-size: 20px;
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  margin: auto;
+  position: absolute;
+  bottom: 200px;
+  left: 16px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.second{
+  font-family: Lucida Console, Courier New, monospace;
+  font-size: 20px;
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  margin: auto;
+  position: absolute;
+  bottom: 200px;
+  right: -950px;
+  font-size: 30px;
+  text-align: center;
+}
+
+
