@@ -31,7 +31,7 @@
     position: relative;
     background: darkblue;
     padding: 40px;
-    
+
   }
   .profileText{
     position: relative;
@@ -184,26 +184,12 @@
     font-weight: 500;
   }
 
-  .skills .box .percent{
-    position: relative;
-    width: 100%;
-    height: 10px;
-    background: lightgray;
-  }
-
-  .skills .box .percent div{
+  .topLeft{
     position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    background: darkblue;
-  }
-
-  
-
-  .interests ul{
-    padding-left: 1.0rem;
-    color: #333;
-    font-weight: 500;
-    margin-bottom: 10px, 0;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+    border:solid black;
+    padding: 5px;
+    margin:10px;
   }
