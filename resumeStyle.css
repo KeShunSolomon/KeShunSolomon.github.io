@@ -183,13 +183,3 @@
     color: #333;
     font-weight: 500;
   }
-
-  .topLeft{
-    position: absolute;
-    top: 8px;
-    left: 16px;
-    font-size: 18px;
-    border:solid black;
-    padding: 5px;
-    margin:10px;
-  }
