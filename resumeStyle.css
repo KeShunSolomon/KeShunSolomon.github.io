@@ -200,6 +200,8 @@
   display: inline-block;
   text-decoration: none;
   cursor: pointer;
+  border-style: ridge;
+  border-width: 15px;
 }
 
 .button2 .topLeft:hover {opacity: 1}
