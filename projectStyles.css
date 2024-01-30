@@ -113,7 +113,7 @@ h2{
 .button2 .topLeft{
   position: absolute;
   top: 8px;
-  left: 16px;
+  left: 5px;
   background-color: #f4511e;
   border: none;
   color: white;
@@ -126,6 +126,8 @@ h2{
   display: inline-block;
   text-decoration: none;
   cursor: pointer;
+  border-style: ridge;
+  border-width: 15px;
 }
 
 .button2 .topLeft:hover {opacity: 1}
